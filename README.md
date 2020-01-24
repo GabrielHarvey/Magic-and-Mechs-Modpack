@@ -1,3 +1,5 @@
+Magic and Mechs modpack for minecraft 1.7.10
+
 Modlist:
 -Actually additions
 -Additional Pipes
