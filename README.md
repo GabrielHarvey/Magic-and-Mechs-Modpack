@@ -1,29 +1,51 @@
 Magic and Mechs modpack for minecraft 1.7.10
 
+Now officially out of testing!
+
+!!Warning, this is a modpack made for myself and my friends, anything short of a mod author requesting mod removal from the pack will be ignored!!
+
 Modlist:
--Actually additions
+-Actually Additions
 -Additional Pipes
 -Agricraft
--AE2
--Aromas Dimensional World
--Baubles
+-Applied Energistics 2
+-Aroma1997s Dimensional World
+-Ars Magica 2
+-Avaratia
+-Bibliocraft
+-BiblioWoods
 -Big Reactors
+-Blood Magic
 -Botania
 -Buildcraft
+-Chisel
 -Draconic Evolution
--Flans Titan Pack
+-EnderIO
+-Enderstorage
+-Extra Utilities
+-Fast Leaf Decay
+-Flans Mod + Mechs & Parts Packs
 -Forestry
 -GenDustry
--Hats mod
+-Gravestone
+-Hats
 -Iguanas Tinkers Tweaks
 -Immersive Engineering
--Inv Tweaks
+-Inventory Tweaks
+-Iron Backpacks
+-Iron Chests
 -Journey Map
+-Magic Bees
 -Mekanism
+-Mekanism Generators
 -NEI
 -OpenComputers
 -Railcraft
 -RFTools
--TinkersConstruct
--Thaumcraft 4
--VeinMiner
+-Storage Drawers
+-Thaumcraft
+-Tinkers Construct
+-Twilight Forest
+-Vein Miner
+-WAILA
+-Witchery

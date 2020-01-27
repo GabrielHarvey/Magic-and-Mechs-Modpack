@@ -1,0 +1,89 @@
+[15:44:06] [main/INFO]: Setting user: blackoutBarista
+[15:44:11] [Client thread/INFO]: LWJGL Version: 2.9.4
+[15:44:12] [Client thread/ERROR]: Couldn't initialize twitch stream
+[15:44:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Actually Additions, FMLFileResourcePack:Additional Pipes, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:Aroma1997's Dimensional World, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Avaritia, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Botany, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:Chisel, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Flan's Mod, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GenDustry, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Hats, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:Railcraft, FMLFileResourcePack:RFTools, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Waila, FMLFileResourcePack:Witchery, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+[15:44:58] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:44:58] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:44:58] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:44:58] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:44:58] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:44:58] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:45:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Actually Additions, FMLFileResourcePack:Additional Pipes, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:Aroma1997's Dimensional World, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Avaritia, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Botany, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:Chisel, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Flan's Mod, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GenDustry, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Hats, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:Railcraft, FMLFileResourcePack:RFTools, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Waila, FMLFileResourcePack:Witchery, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Flan's Mod : Flans-mecha-parts-pack-1.7.10.jar, FMLFileResourcePack:Flan's Mod : Flans-Simple-Parts-Pack-1.7.10.jar, FMLFileResourcePack:Flan's Mod : Flans-Titan-Pack-1.7.10.jar
+[15:45:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:45:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:45:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:45:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:45:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:45:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:46:01] [Sound Library Loader/INFO]: Sound engine started
+[15:46:03] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[15:46:04] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[15:46:21] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
+[15:47:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Actually Additions, FMLFileResourcePack:Additional Pipes, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:Aroma1997's Dimensional World, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Avaritia, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Botany, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:Chisel, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Flan's Mod, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GenDustry, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Hats, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:Railcraft, FMLFileResourcePack:RFTools, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:Waila, FMLFileResourcePack:Witchery, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Flan's Mod : Flans-mecha-parts-pack-1.7.10.jar, FMLFileResourcePack:Flan's Mod : Flans-Simple-Parts-Pack-1.7.10.jar, FMLFileResourcePack:Flan's Mod : Flans-Titan-Pack-1.7.10.jar, Avaritia_Delegate_Pack, Avaritia_Delegate_Pack, resources, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack
+[15:47:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:47:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:47:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:47:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:47:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:47:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /home/gabriel/Downloads/MultiMC/instances/Magic-and-Mechs-Modpack-master/.minecraft/mods/Blood-Magic-Mod-1.7.10.jar
+[15:47:39] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[15:47:40] [Client thread/INFO]: Created: 1024x1024 textures/revolvers-atlas
+[15:47:58] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[15:48:00] [Sound Library Loader/INFO]: Sound engine started
+[15:48:23] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:48:23] [Server thread/INFO]: Generating keypair
+[15:48:26] [Server thread/INFO]: Preparing start region for level 0
+[15:48:27] [Server thread/INFO]: Preparing spawn area: 18%
+[15:48:28] [Server thread/INFO]: Preparing spawn area: 58%
+[15:48:33] [Server thread/INFO]: Changing view distance to 4, from 10
+[15:48:35] [Server thread/INFO]: blackoutBarista[local:E:769bd4aa] logged in with entity id 334 at (287.08271668911704, 87.98081832137237, 489.69512300826295)
+[15:48:35] [Server thread/INFO]: blackoutBarista joined the game
+[15:48:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10950ms behind, skipping 219 tick(s)
+[15:48:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2550ms behind, skipping 51 tick(s)
+[15:49:03] [Client thread/INFO]: [CHAT] Veinminer using client keybind. See mod config for details.
+[15:49:03] [Client thread/INFO]: [CHAT] Veinminer client keybind set to activate on pressing the key.
+[15:49:03] [Client thread/INFO]: [CHAT] §aOpenComputers§f: A new version is available: v1.7.5
+[15:49:08] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[15:49:18] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[15:49:20] [Client thread/INFO]: Warning: Clientside chunk ticking took 1307 ms
+[15:49:22] [Client thread/INFO]: Warning: Clientside chunk ticking took 1158 ms
+[15:49:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4942ms behind, skipping 98 tick(s)
+[15:49:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 1918 ms
+[15:49:38] [Client thread/INFO]: [CHAT] §d[Draconic Evolution]§r New version available:
+[15:49:38] [Client thread/INFO]: [CHAT] §aDraconic Evolution v1.0.2
+[15:49:38] [Client thread/INFO]: [CHAT] More bug fixes! Hopefully fixed the chaos guardian issues once and for all...
+[15:49:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5471ms behind, skipping 109 tick(s)
+[15:49:51] [Client thread/INFO]: [CHAT] There is an Update for Actually Additions available!
+[15:49:51] [Client thread/INFO]: [CHAT] Current Version: 1.7.10-r21, newest Version: 1.12.2-r150
+[15:49:51] [Client thread/INFO]: [CHAT] [Click for Changelog] [Click for Download]
+[15:49:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 135 ms
+[15:50:06] [Client thread/INFO]: Warning: Clientside chunk ticking took 1771 ms
+[15:50:09] [Client thread/INFO]: Warning: Clientside chunk ticking took 397 ms
+[15:50:20] [Server thread/INFO]: Saving and pausing game...
+[15:50:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/Spirit World
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/Torment
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/Mirror
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
+[15:50:21] [Server thread/INFO]: Saving chunks for level 'New World'/Mining World
+[15:50:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15945ms behind, skipping 318 tick(s)
+[15:50:25] [Server thread/INFO]: Stopping server
+[15:50:25] [Server thread/INFO]: Saving players
+[15:50:25] [Server thread/INFO]: Saving worlds
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/Spirit World
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/Torment
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/Mirror
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
+[15:50:25] [Server thread/INFO]: Saving chunks for level 'New World'/Mining World
+[15:50:43] [Client thread/INFO]: Stopping!
