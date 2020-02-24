@@ -44,6 +44,7 @@ Modlist:
 -Railcraft
 -RFTools
 -Storage Drawers
+-Sync
 -Thaumcraft
 -Tinkers Construct
 -Twilight Forest

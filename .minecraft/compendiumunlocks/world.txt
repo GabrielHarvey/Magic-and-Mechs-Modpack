@@ -163,7 +163,7 @@ burnout|UN
 calefactor|ULN
 casters|ULN
 celestialprism_structure|ULN
-cerublossom|ULN
+cerublossom|UN
 craftingAltar|ULN
 crystalMarker|ULN
 crystal_phylactery|ULN
